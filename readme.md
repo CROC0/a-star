@@ -8,14 +8,11 @@ You may wish to use a virtual environment. This example does not and installs mo
 
 ### install packages
 
-- bash
-  ```sh
-  pip install
-  ```
+```sh
+pip install
+```
 
 ### run application
-
-- bash
 
 ```sh
 python app.py
